@@ -71,7 +71,7 @@ body {
 
 .register_link_social_btn:active,
 .create_account_btn:active {
-    box-shadow: 0px 0px 3px 2px #2e3236;
+    box-shadow: 0px 0px 2px 1px #2e3236;
     text-shadow: 1px 2px 1px #000;
 }
 
